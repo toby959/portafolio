@@ -1,8 +1,8 @@
 # Portafolio ¡Hola, bienvenido a mi proyecto de portafolio!
 
-![portafolio](./assets/imagen_1.png)
+![portafolio] (assets/imagen_1.png)
 
-![portafolio](./assets/imagen_2.png)
+![portafolio] (assets//imagen_2.png)
 
 ## Herramientas utilizadas:
 
