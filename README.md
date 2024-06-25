@@ -1,6 +1,6 @@
-# Portfolio ¡Hola, bienvenido a mi proyecto de portafolio!
+# Portafolio ¡Hola, bienvenido a mi proyecto de portafolio!
 
-![portafolio](assets/imagen_1.png)
+![portafolio](../assets/imagen_1.png)
 
 ![portafolio](assets/imagen_2.png)
 
